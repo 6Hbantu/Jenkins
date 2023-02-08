@@ -1,0 +1,53 @@
+ Volume in drive C has no label.
+ Volume Serial Number is CC69-67F9
+
+ Directory of C:\Users\hbantu\Desktop
+
+02/09/2023  12:02 AM    <DIR>          .
+02/09/2023  12:02 AM    <DIR>          ..
+02/05/2023  02:51 PM                61 .eclipseproduct
+02/08/2023  09:11 PM            10,190 1.PNG
+02/08/2023  09:15 PM            10,769 2.PNG
+02/08/2023  09:16 PM            20,936 3.PNG
+02/08/2023  11:36 PM            26,288 4.PNG
+02/08/2023  11:37 PM            28,553 41.PNG
+02/08/2023  11:37 PM            15,946 42.PNG
+02/05/2023  02:51 PM           275,254 artifacts.xml
+02/03/2023  04:26 PM             1,366 bin - Shortcut.lnk
+02/05/2023  02:57 PM    <DIR>          configuration
+03/12/2021  07:11 AM    <DIR>          dropins
+02/08/2023  08:46 PM            32,153 Ec1.PNG
+02/08/2023  08:46 PM             2,378 Ec2.PNG
+02/08/2023  08:47 PM            20,470 Ec3.PNG
+02/08/2023  08:48 PM             5,918 Ec4.PNG
+02/08/2023  07:34 PM    <DIR>          eclipse
+02/05/2023  02:27 PM         9,879,296 eclipse-inst-jre-win64.exe
+02/08/2023  07:33 PM    <DIR>          eclipse-jee-2021-03-R-win32-x86_64
+02/08/2023  08:43 PM    <DIR>          eclipse-workspace
+02/05/2023  02:51 PM           426,152 eclipse.exe
+02/05/2023  02:51 PM               812 eclipse.ini
+02/05/2023  02:51 PM           131,240 eclipsec.exe
+02/05/2023  02:55 PM    <DIR>          features
+02/05/2023  01:40 PM             2,209 Git Bash.lnk
+02/05/2023  12:17 PM             1,133 Git-2.39.1-64-bit - Shortcut.lnk
+02/08/2023  11:28 PM            20,722 git11.PNG
+02/08/2023  11:28 PM            29,603 git12.PNG
+02/08/2023  11:29 PM            22,637 git13.PNG
+02/08/2023  11:29 PM            21,995 git14.PNG
+02/09/2023  12:00 AM    <DIR>          Java
+02/03/2023  04:12 PM       101,310,464 jenkins.msi
+02/08/2023  08:51 PM             3,801 note.PNG
+02/08/2023  08:52 PM            18,877 note2.PNG
+02/08/2023  08:52 PM             7,394 note3.PNG
+02/08/2023  08:52 PM             3,049 note4.PNG
+02/08/2023  08:53 PM             6,171 note5.PNG
+02/08/2023  08:54 PM             3,544 note6.PNG
+02/08/2023  08:43 PM    <DIR>          p2
+02/05/2023  02:55 PM    <DIR>          plugins
+02/09/2023  12:02 AM               155 read.txt
+02/05/2023  02:55 PM    <DIR>          readme
+02/08/2023  07:49 PM               125 Simple.txt
+02/08/2023  07:23 PM    <DIR>          SNIP
+02/05/2023  01:01 PM             1,969 Zoom.lnk
+              33 File(s)    112,341,630 bytes
+              13 Dir(s)  300,451,065,856 bytes free
